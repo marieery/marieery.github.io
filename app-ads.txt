@@ -1,3 +1,4 @@
+google.com, pub-6628885001644240, DIRECT, f08c47fec0942fa0
 google.com, pub-3631377089634516, DIRECT, f08c47fec0942fa0
 applovin.com, 317e5ed53ef9be8bfd98a6125d523f28, DIRECT
 pangleglobal.com, 5004736, DIRECT
